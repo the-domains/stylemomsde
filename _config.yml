@@ -1,4 +1,3 @@
-layout_spectrum: 0.8783941124565899
 typography_spectrum: 0.5016665016300976
 color:
   brandStrength: 0.22929436643607914
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.8783941124565899
 name: Stylemoms.de
+title: Be a mom
